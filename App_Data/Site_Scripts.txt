@@ -1,0 +1,2 @@
+﻿~/Scripts/ScriptFile1.js
+~/Scripts/ScriptFile2.js
